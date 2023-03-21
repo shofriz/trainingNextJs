@@ -1,0 +1,94 @@
+@import "tailwindcss/variants.css";
+@import "tailwindcss/components.css";
+@import "tailwindcss/base.css";
+@Import "tailwindcss/utilities.css";
+.btn-danger, .btn-warning, .btn-primary {
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn-danger {
+  background: red;
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 10px;
+  background: red;
+}
+.btn-green {
+  background: red;
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 10px;
+  background: green;
+}
+
+.btn-danger {
+  background: red;
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 10px;
+  background: red;
+}
+
+.btn-primary {
+  background: blue;
+}
+
+.btn-warning {
+  background: yellow;
+}
+
+.btn-danger {
+  background: red;
+}
+
+.btn-danger {
+  background-color: rgb(253, 10, 10);
+}
+.btn-success {
+  background-color: rgb(17, 209, 17);
+}
+.btn--visible {
+  display: block;
+}
+.btn--hidden {
+  display: none;
+}
+
+.grid .grid-cols-1 {
+  width: 0.25rem;
+}
+.grid .grid-cols-2 {
+  width: 0.5rem;
+}
+.grid .grid-cols-3 {
+  width: 0.75rem;
+}
+.grid .grid-cols-4 {
+  width: 1rem;
+}
+.grid .grid-cols-5 {
+  width: 1.25rem;
+}
+.grid .grid-cols-6 {
+  width: 1.5rem;
+}
+.grid .grid-cols-7 {
+  width: 1.75rem;
+}
+.grid .grid-cols-8 {
+  width: 2rem;
+}
+.grid .grid-cols-9 {
+  width: 2.25rem;
+}
+.grid .grid-cols-10 {
+  width: 2.5rem;
+}
+.grid .grid-cols-11 {
+  width: 2.75rem;
+}
+.grid .grid-cols-12 {
+  width: 3rem;
+}

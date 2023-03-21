@@ -1,0 +1,18 @@
+.btn{
+    &-danger{
+        background-color: rgb(253, 10, 10);
+        
+    }
+    &-success{
+        background-color: rgb(17, 209, 17);
+  
+    }
+
+    &--visible{
+        display: block;
+    }
+
+    &--hidden{
+        display: none;
+    }
+}
